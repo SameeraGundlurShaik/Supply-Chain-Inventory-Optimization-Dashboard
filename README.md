@@ -70,14 +70,6 @@ This approach ensures scalability and accurate KPI computation.
 
 ---
 
-## 📷 Dashboard Preview
-
-![Supply Chain Dashboard](dashboard.png)
-
-> If the image is stored inside a folder:
-> ![Supply Chain Dashboard](images/dashboard.png)
-
----
 
 ## 📂 Repository Structure
 
